@@ -1,0 +1,10 @@
+@import 'antd/dist/reset.css';
+
+
+.App {
+  margin-top: 3rem;
+}
+
+.App img {
+  margin-botton: 3rem;
+}
